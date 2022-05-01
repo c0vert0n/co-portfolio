@@ -1,0 +1,14 @@
+body {
+  background-color: aliceblue;
+}
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+}
+p {
+  font-family: "Poppins", sans-serif;
+}
+.fa-brands {
+  font-size: xx-large;
+}
