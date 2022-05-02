@@ -1,6 +1,6 @@
 root {
-  --heading-font-family: "Playfair Display", serif;
-  --default-font-family: "Poppins", sans-serif;
+  --heading-font: "Playfair Display", serif;
+  --default-font: "Poppins", sans-serif;
 }
 body {
   background-color: aliceblue;
@@ -8,13 +8,13 @@ body {
 h1,
 h2,
 h3 {
-  font-family: var(--heading-font-family);
+  font-family: var(--heading-font);
 }
 .hero {
   text-align: center;
 }
 .hero h2 {
-  font-family: var(--default-font-family);
+  font-family: var(--default-font);
 }
 .fa-brands {
   font-size: xx-large;
